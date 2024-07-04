@@ -1,0 +1,4 @@
+bookId=1, category=컴퓨터, price=10000, bookName=컴퓨터 공부, date=19991919, writer=작가1, description=설명1, stock=999
+bookId=2, category=만화, price=5000, bookName=만화책, date=19991919, writer=작가2, description=설명2, stock=12
+bookId=3, category=ㅋ소설책, price=6000, bookName=소설책이름, date=19191919, writer=소설책작가, description=소설책설명, stock=36
+bookId=1, category=프로그래밍, price=15000, bookName=프로그래밍, date=2024-06-20, writer=최이지, description=이지, stock=3
